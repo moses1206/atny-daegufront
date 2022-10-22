@@ -1,0 +1,33 @@
+.container {
+}
+
+.headerContainer {
+  display: flex;
+  background-color: #333;
+  color: #fff;
+  height: 73px;
+  align-items: center;
+  justify-content: center;
+}
+
+.xIcon {
+  width: 15px;
+  height: 15px;
+}
+
+.loginMenuContainer {
+  display: flex;
+}
+
+.loginItem {
+  margin: 0 1rem;
+  color: rgb(103, 100, 100);
+}
+
+.logoBarContainer {
+  display: flex;
+}
+
+.input {
+  border: 1px solid lightgray;
+}
